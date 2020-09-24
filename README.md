@@ -1,3 +1,3 @@
 ## Simple Todo List
 
-React + localStorage
+React create app + localStorage
